@@ -9,4 +9,4 @@ The instructions for setting up the project are:
 3) Navigate to "index.html" file
 4) Right click and select "Open with Live Server"
 
-Link To the Recorded Vide: ""
+Link To the Recorded Vide: "https://drive.google.com/file/d/1xS8lSMIKbZvOsC6CS_VD9gkhpICWmqHe/view?usp=sharing"
