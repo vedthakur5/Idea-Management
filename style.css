@@ -31,19 +31,6 @@ body {
     color: #F3E779;
 }
 
-.addbucket {
-    background-color: #964B00;
-    border-radius: 3px;
-    font-family: "Lucida Handwriting", cursive;
-    border: none;
-    color: #F3E779;
-    cursor: pointer;
-    padding: 0.5rem 1rem;
-    position: fixed;
-    top: 4rem;
-    right: 1rem;
-}
-
 .note {
     background-color: #F3E779;
     box-shadow: 0 0 10px 4px rgba(0, 0, 0, 0.1);
@@ -73,6 +60,16 @@ body {
     color: #fff;
 }
 
+.note .tools .form-control {
+    width: 100px;
+    background-color: #cc9966;
+    border-color: #964B00;
+    border-radius: 5px;
+    font-family: "Lucida Handwriting", cursive;
+    color: #fff;
+
+}
+
 .note .main {
     background-color: #F3E779;
     padding: 5px;
@@ -94,18 +91,4 @@ body {
 
 .note .hidden {
     display: none;
-}
-
-.bucket{
-    background-color: #F3E779;    
-    margin: 80px;
-    height: 50px;
-    width: 50px;
-}
-
-.bucket textarea {
-    font-family: monospace;
-    height: 50px;
-    font-size: 16px;
-    width: 100%;
 }
